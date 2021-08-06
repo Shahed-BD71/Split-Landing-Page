@@ -2,7 +2,6 @@ I take the "50 Vanilla Javascript Project in 50 days" Challenge. In this series 
 
 Let's make the difference, keep the ball rolling....
 
-Link: 
-
+Link: https://github.com/Shahed-BD71/Split-Landing-Page/settings/pages
 
 #Day 7 - Split-Landing-Page
